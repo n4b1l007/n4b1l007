@@ -2,7 +2,7 @@
 <p><strong>Senior Software Engineer | .NET Architect | Full-Stack Developer</strong></p>
 
 <ul>
-  <li>🔧 <strong>Tech Stack:</strong> .NET | ASP.NET Core | Dapper | EF Core | SQL Server | React | WPF | Android Development | DLNA</li>
+  <li>🔧 <strong>Tech Stack:</strong> .NET | ASP.NET Core | Dapper | EF Core | SQL Server | React.js | Vue.js | .NET MAUI</li>
   <li>💼 <strong>Experience:</strong> 10+ years in software architecture, multi-tenant systems, authentication servers, and ERP solutions</li>
   <li>🚀 <strong>Current Focus:</strong> Building scalable, multi-tenant systems with ASP.NET Core 8 and React for SME ERP solutions</li>
   <li>🎯 <strong>Specialties:</strong> Role-based access control, performance optimization, API development, and responsive UI/UX</li>
