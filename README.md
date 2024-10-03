@@ -1,6 +1,15 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
+<h2>👨‍💻 Md. Jafrul Sadek</h2>
+<p><strong>Senior Software Engineer | .NET Architect | Full-Stack Developer</strong></p>
 
-<p>Welcome to my page! </br> I'm Nabil, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/14009/14009968.png" width="13"/> <b>Dhaka, Bangladesh</b> </p>
+<ul>
+  <li>🔧 <strong>Tech Stack:</strong> .NET | ASP.NET Core | Dapper | EF Core | SQL Server | React | WPF | Android Development | DLNA</li>
+  <li>💼 <strong>Experience:</strong> 10+ years in software architecture, multi-tenant systems, authentication servers, and ERP solutions</li>
+  <li>🚀 <strong>Current Focus:</strong> Building scalable, multi-tenant systems with ASP.NET Core 8 and React for SME ERP solutions</li>
+  <li>🎯 <strong>Specialties:</strong> Role-based access control, performance optimization, API development, and responsive UI/UX</li>
+  <li>💡 <strong>Exploring:</strong> .NET MAUI & React for modern front-end development</li>
+  <li>📍 <strong>Location:</strong> Dhaka, Bangladesh</li>
+</ul>
+
 <h3>Things I code with</h3>
 <p>
   <img alt="dotnet" src="https://img.shields.io/badge/-Microsoft-64237c?style=flat-square&logo=.net&logoColor=white" />
